@@ -7,3 +7,4 @@ y si, es mi primer repositorio donde ademas, estoy aplicando todo lo aprendido d
 
 creado por brayan gonzalez
 incluye ejemplos en linux 
+disponible para todos
